@@ -1,0 +1,13 @@
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\bin\Debug\netcoreapp3.1\DesafioTecnico.exe
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\bin\Debug\netcoreapp3.1\DesafioTecnico.deps.json
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\bin\Debug\netcoreapp3.1\DesafioTecnico.runtimeconfig.json
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\bin\Debug\netcoreapp3.1\DesafioTecnico.runtimeconfig.dev.json
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\bin\Debug\netcoreapp3.1\DesafioTecnico.dll
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\bin\Debug\netcoreapp3.1\DesafioTecnico.pdb
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\obj\Debug\netcoreapp3.1\DesafioTecnico.csprojAssemblyReference.cache
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\obj\Debug\netcoreapp3.1\DesafioTecnico.AssemblyInfoInputs.cache
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\obj\Debug\netcoreapp3.1\DesafioTecnico.AssemblyInfo.cs
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\obj\Debug\netcoreapp3.1\DesafioTecnico.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\obj\Debug\netcoreapp3.1\DesafioTecnico.dll
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\obj\Debug\netcoreapp3.1\DesafioTecnico.pdb
+C:\Users\Rubén\source\repos\DesafioTecnico\DesafioTecnico\obj\Debug\netcoreapp3.1\DesafioTecnico.genruntimeconfig.cache
